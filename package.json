@@ -42,8 +42,10 @@
     "@types/node": "^18.11.9",
     "concurrently": "^8.2.2",
     "imagemin": "^7.0.1",
+    "imagemin-avif": "^0.1.6",
     "imagemin-webp": "^6.1.0",
     "jimp": "^0.22.12",
-    "rimraf": "^5.0.5"
+    "rimraf": "^5.0.5",
+    "sharp": "^0.33.4"
   }
 }
